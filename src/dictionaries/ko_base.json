@@ -1,7 +1,7 @@
 {
   "Meta": {
-    "title": "Sammity | 표광진 커리어",
-    "description": "컴퓨터 엔지니어, 표광진의 커리어 페이지"
+    "title": "Sammity | 백승우 커리어",
+    "description": "컴퓨터 엔지니어, 백승우의 커리어 페이지"
   },
   "Header": {
     "toc": "목차",
@@ -11,22 +11,22 @@
     "title": "요청하신 페이지를 찾을 수 없습니다"
   },
   "HeroImage": {
-    "mobileName": "표 광 진"
+    "mobileName": "백 승 우"
   },
   "Profile": {
     "title": "프로필",
     "subTitlePersonalInfo": "기본정보",
     "nameHeader": "성\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0명",
-    "name": "표광진",
+    "name": "백승우",
     "birthHeader": "생년월일",
-    "birth": "1993. 06. 24",
+    "birth": "1990. 04. 07",
     "ageHeader": "나\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0이",
     "sexHeader": "성\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0별",
     "sex": "남",
     "locationHeader": "거 주 지",
-    "location": "대한민국 수원시 영통구",
+    "location": "대한민국 서울시 동작구",
     "educationHeader": "학\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0력",
-    "education": "한경대학교 IoT융합산업학과 (석사 졸)",
+    "education": "연세대학교 원주캠퍼스 정보통계학과 (학사 졸)",
     "subTitleContact": "연락처",
     "emailHeader": "이메일",
     "subTitleLinks": "링크",
@@ -40,7 +40,7 @@
     "positionHeader": "직책",
     "projectHeader": "프로젝트",
     "Mobigen": {
-      "name": "(주)위존",
+      "name": "(주)모비젠",
       "team": "연구소 AI플랫폼연구팀",
       "position": "책임 / Data Engineer",
       "Projects": {
@@ -98,7 +98,7 @@
     "title": "자기소개"
   },
   "Footer": {
-    "name": "성명: 표광진",
+    "name": "성명: 백승우",
     "location": "거주지: 대한민국 서울시 동작구"
   }
 }
