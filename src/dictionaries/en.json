@@ -1,0 +1,104 @@
+{
+  "Meta": {
+    "title": "Sammity | Career Sammy Baek",
+    "description": "Career Page of Sammy Baek, a computer engineer."
+  },
+  "Header": {
+    "toc": "Table of Contents",
+    "lang": "Language"
+  },
+  "NotFound": {
+    "title": "Page Not Found"
+  },
+  "HeroImage": {
+    "mobileName": "Sammy Baek"
+  },
+  "Profile": {
+    "title": "Profile",
+    "subTitlePersonalInfo": "Personal Info",
+    "nameHeader": "Name",
+    "name": "Sammy Baek",
+    "birthHeader": "Birth",
+    "birth": "1990. 04. 07",
+    "ageHeader": "Age",
+    "sexHeader": "Sex",
+    "sex": "Male",
+    "locationHeader": "Location",
+    "location": "Dongjak-Gu, Seoul, South Korea",
+    "educationHeader": "Education",
+    "education": "Bachelor of Science in Statistical Information, Yonsei University Wonju Campus",
+    "subTitleContact": "Contact",
+    "emailHeader": "Email",
+    "subTitleLinks": "Links",
+    "githubHeader": "Github",
+    "blogHeader": "Blog"
+  },
+  "Career": {
+    "title": "Career",
+    "periodHeader": "Period",
+    "teamHeader": "Team",
+    "positionHeader": "Position",
+    "projectHeader": "Projects",
+    "Mobigen": {
+      "name": "Mobigen Co., Ltd.",
+      "team": "AI Platform Research Team, Lab",
+      "position": "Senior Researcher / Data Engineer",
+      "Projects": {
+        "1": "Dockerizing Internal Solutions",
+        "2": "Development of ETL Solution",
+        "3": "L* Electronics - Refrigerator Pre-diagnosis Service using Deep Learning",
+        "4": "SmartCity SW Security Monitoring System Development",
+        "5": "S* Telecom - Similar Sound Recommendation",
+        "6": "Pre-research on Financial Data Analysis",
+        "7": "Data Enhancement and Dataset Bias Mitigation Techniques Based on Data Quality Evaluation"
+      }
+    },
+    "Mosepeople": {
+      "name": "MosePeople Co., Ltd.",
+      "team": "Development Team, IT Department.",
+      "position": "CTO (Director of Development) / FullStack Developer",
+      "Projects": {
+        "1": "Marine Food B2B E-Commerce Platform - SeaRoadS",
+        "2": "Company Official Homepage",
+        "3": "Landing Page",
+        "4": "Food Ingredients B2C Distribution Platform for Medium & Small Mart - Domego",
+        "5": "Korean Product Promotion Site for Uzbekistan - KOMART"
+      }
+    }
+  },
+  "SkillInventory": {
+    "title": "Skills",
+    "NumSkills": {
+      "beforeNum": "Total",
+      "afterNum": "skills"
+    },
+    "Search": {
+      "resultEmpty": "No results found."
+    },
+    "Align": {
+      "title": "Sort",
+      "default": "Default",
+      "name": "Name",
+      "level": "Level"
+    }
+  },
+  "Projects": {
+    "title": "Projects",
+    "whereHeader": "Team",
+    "summaryHeader": "Summary",
+    "periodHeader": "Period",
+    "participationRateHeader": "Contrib",
+    "useSkillHeader": "Skills",
+    "responsibilitiesHeader": "Responsibilities"
+  },
+  "Portfolio": {
+    "title": "Portfolio"
+  },
+  "SelfIntroduction": {
+    "title": "Introduction"
+  },
+  "Footer": {
+    "name": "Name: Sammy Baek",
+    "location": "Location: Dongjak-Gu, Seoul, South Korea"
+  }
+}
